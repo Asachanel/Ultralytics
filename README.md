@@ -1,6 +1,6 @@
-# Ultralytics YOLO - Gradio 接口
+# Ultralytics - Gradio Web UI
 
-这是一个基于 Ultralytics YOLO 的个人开发演示项目，使用 Gradio 提供可交互的 Web 界面，用于模型训练（Train）、验证（Val）、推理（Predict）和导出（Export）。适用于希望在本地或带 GPU 的服务器上快速试用 Ultralytics 模型的开发者。
+这是一个基于 Ultralytics 的个人开发演示项目，使用 Gradio 提供可交互的 Web 界面，用于模型训练（Train）、验证（Val）、推理（Predict）和导出（Export）。适用于希望在本地或带 GPU 的服务器上快速试用 Ultralytics 模型的开发者。
 
 ## 特性
 - 使用 ultralytics 库加载与训练 YOLO 模型
