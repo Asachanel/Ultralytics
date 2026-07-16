@@ -77,7 +77,7 @@ python app.py
 ## 开发与贡献
 - 代码风格：简单明了，主要分为 UI 层（Interface/*.py）与功能实现层（Interface/api/*.py）。
 - 如果要增加新模型或任务：更新 `MODEL_CHOICES` 与 `TASK_CHOICES`，并在 `Source/weights/` 加入对应权重文件。
-- 欢迎提交 issue 或 pull request。若需联系作者，可访问 app.py 中的链接：GitHub (https://github.com/Asachanel/) 或博客 (https://blog.asachanel.cn/)。
+- 欢迎提交 issue 或 pull request。若需联系作者，可访问 app.py 中的链接：GitHub (https://github.com/Asachanel/) 或博客 (https://blog.asachanel.cn/)
 
 ## 致谢
 基于 Ultralytics YOLO 与 Gradio 搭建示例界面，适合作为教学或快速原型工具。
